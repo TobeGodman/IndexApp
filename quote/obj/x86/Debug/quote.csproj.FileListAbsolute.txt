@@ -1,0 +1,4 @@
+C:\Users\jht\Documents\Visual Studio 2013\Projects\IndexApp\quote\bin\x86\Debug\quote.dll
+C:\Users\jht\Documents\Visual Studio 2013\Projects\IndexApp\quote\bin\x86\Debug\quote.pdb
+C:\Users\jht\Documents\Visual Studio 2013\Projects\IndexApp\quote\obj\x86\Debug\quote.dll
+C:\Users\jht\Documents\Visual Studio 2013\Projects\IndexApp\quote\obj\x86\Debug\quote.pdb

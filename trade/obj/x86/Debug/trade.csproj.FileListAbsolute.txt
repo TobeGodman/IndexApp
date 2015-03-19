@@ -1,0 +1,4 @@
+c:\Users\jht\documents\visual studio 2013\Projects\IndexApp\trade\bin\x86\Debug\trade.dll
+c:\Users\jht\documents\visual studio 2013\Projects\IndexApp\trade\bin\x86\Debug\trade.pdb
+c:\Users\jht\documents\visual studio 2013\Projects\IndexApp\trade\obj\x86\Debug\trade.dll
+c:\Users\jht\documents\visual studio 2013\Projects\IndexApp\trade\obj\x86\Debug\trade.pdb
